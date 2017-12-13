@@ -6,5 +6,11 @@ public class TestDemo {
 	 */
 	public void method1(){
 	}
+	
+	/**
+	 * 第一个方法
+	 */
+	public void method2(){
+	}
 
 }
