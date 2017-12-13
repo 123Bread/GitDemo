@@ -12,5 +12,11 @@ public class TestDemo {
 	 */
 	public void method2(){
 	}
+	
+	/**
+	 * 第method00方法
+	 */
+	public void method00(){
+	}
 
 }
